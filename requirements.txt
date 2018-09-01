@@ -5,3 +5,4 @@ chardet==3.0.4
 idna==2.6
 PyAudio==0.2.11
 opencv-python==3.2.0.6
+requests==2.18.4
